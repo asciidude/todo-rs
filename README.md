@@ -1,5 +1,5 @@
 # todo-rs
-A very basic TODO list in Rust. Project was used as a learning method, but works just fine as an actual CLI.
+A very basic TODO list in Rust. This project was used as a learning method, but works just fine as an actual CLI.
 
 Supported commands: `add`, `rm`, `done`, `undone`, `list`, `clear`
 
